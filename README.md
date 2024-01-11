@@ -2,7 +2,7 @@
 
 ### [Live Site](https://alan-news-app.netlify.app/)
 
-![Voice Controlled React News Application](http://localhost:3000/)
+![Voice Controlled React News Application]()
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
